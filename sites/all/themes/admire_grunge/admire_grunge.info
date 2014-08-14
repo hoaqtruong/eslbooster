@@ -1,0 +1,21 @@
+name = Admire Grunge
+description = This is a Grunge Drupal theme by <a href="http://www.worthapost.com">Worthapost</a>. Don't forget to visit our website to rate and comment on this theme and check our more exciting themes. 
+version = VERSION
+core = 6.x
+engine = phptemplate
+
+regions[sidebar_first] = Sidebar First
+regions[sidebar_last] = Sidebar Last
+regions[right_dark] = Right sidebar dark
+regions[content_top] = Content Top
+regions[content_bottom] = Content Bottom
+regions[main_banner] = Advt - big top Banner
+regions[above_content_ad] = Advt - above content
+regions[right_ad] = Advt - right sidebar
+regions[footer] = Footer
+; Information added by drupal.org packaging script on 2010-05-20
+version = "6.x-1.5"
+core = "6.x"
+project = "admire_grunge"
+datestamp = "1274359503"
+
